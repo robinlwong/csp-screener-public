@@ -2,23 +2,8 @@
 
 > **Cash-Secured Put Opportunity Finder with Full Black-Scholes Greeks, Fundamental Scoring & Mak's 5-10% Monthly Strategy**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/robinlwong/csp-screener-public)
-
----
-
-## 👨‍👩‍👧‍👦 New to Options? Start Here!
-
-**Looking for a beginner-friendly explanation?** Check out our **[Family Guide](https://docs.google.com/document/d/YOUR_GOOGLE_DOC_ID/edit)** (Google Docs) - it explains cash-secured puts in plain English with real examples and step-by-step instructions. No jargon, no confusion!
-
----
-
 A professional-grade options screener optimized for **premium selling strategies** (CSPs, Put Credit Spreads, Broken Wing Butterflies). Includes analysis of Coach Mak's (@wealthcoachmak) trading methodology derived from real trades (Feb 2026).
 
-**No API keys required** — uses free Yahoo Finance data.
-
----
 **No API keys required** — uses free Yahoo Finance data.
 
 ---
