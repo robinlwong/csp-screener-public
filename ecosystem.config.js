@@ -100,10 +100,16 @@ module.exports = {
     // --- MAIN AGENTS (Daemons) ---
     createAppConfig("Jarvis", 18789),
     createAppConfig("Marvin", 3001),
+    createAppConfig("Bonnie", 3002), // Kimi testbed
+    createAppConfig("Clyde", 3003),
+
 
     // --- AUTH HELPERS (Interactive) ---
     // These share the exact same env/paths as above but run the login command
     createAppConfig("Jarvis", 18789, true),
-    createAppConfig("Marvin", 3001, true)
+    createAppConfig("Marvin", 3001, true),
+    createAppConfig("Bonnie", 3002, true), // Might have to deploy Telegram as well
+    createAppConfig("Clyde", 3003, true)
+
   ]
 };
